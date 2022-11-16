@@ -1,0 +1,38 @@
+[
+    {
+        "titre" : "Les Aventures de Sherlock Holmes",
+        "auteur" : "Arthur Conan Doyle",
+        " disponible" : "vrai"
+    },
+    {
+        "titre" :"The A B C Murders",
+        " auteur" :"Agatha Christie",
+        "disponible" : "faux"
+    },
+    {
+        "titre" :"Nemesis",
+        "auteur" :"Agatha Christie",
+        "disponible" : "true"
+    },
+    {
+        "titre" :"The Green Mile",
+        "auteur" :"Stephen King",
+        "disponible" :"false"
+    },
+    {
+        "Titre" : "Macbeth",
+        "auteur" : "William Shakespeare",
+        "disponible" : "true"
+    },
+    {
+        "Titre" : "Macbeth",
+        "auteur" : "William Shakespeare",
+        "disponible" : "true"
+    },
+    {
+        "Titre" : "L'île au trésor",
+        "auteur" : "Robert Louis Stevenson",
+        "disponible" : "true"
+    }
+
+]
